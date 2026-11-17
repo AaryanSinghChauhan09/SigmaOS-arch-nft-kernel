@@ -3,7 +3,7 @@ name = "SigmaOS-arch-nft-kernel"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "arch-nft-kernel component"
+description = "SigmaOS SigmaOS-arch-nft-kernel component"
 upstream = []
 
 [contract]
